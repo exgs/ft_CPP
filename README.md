@@ -1,2 +1,2 @@
-# ft_CPP
-C++ language subject in 42seoul
+1. 명칭에 있어서 소문자 대문자가 제대로 작성되지 않았을 수 있음
+2. using namespace는 사용이 제한되어있으므로, 제출전에 제거한다.

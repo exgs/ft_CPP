@@ -1,0 +1,9 @@
+Understanding Bitcoin
+Bitcoin is a collection of computers, or nodes, that all run Bitcoin's code and store its blockchain.
+A blockchain can be thought of as a collection of blocks. In each block is a collection of transactions. 
+Because all these computers running the blockchain have the same list of blocks and transactions and can 
+transparently see these new blocks being filled with new Bitcoin transactions, no one can cheat the system. 
+Anyone, whether they run a Bitcoin "node" or not, can see these transactions occurring live. 
+In order to achieve a nefarious act, a bad actor would need to operate 51% of the computing power 
+that makes up Bitcoin. Bitcoin has around 47,000 nodes as of May 2020 and this number is growing,
+making such an attack quite unlikely.4﻿
